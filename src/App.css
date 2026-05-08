@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.chat-link {
+  color: #1a73e8;
+  text-decoration: underline;
+  word-break: break-all;
+}
